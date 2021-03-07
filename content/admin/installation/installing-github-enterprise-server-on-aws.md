@@ -33,15 +33,15 @@ This guide assumes you are familiar with the following AWS concepts:
 
 Before launching {% data variables.product.product_location %} on AWS, you'll need to determine the type of virtual machine that best fits the needs of your organization.
 
-#### Supported instance types
-
-{% data reusables.enterprise_installation.aws-supported-instance-types %}
-
 #### Recommended instance types
 
 {% data reusables.enterprise_installation.aws-recommended-instance-types %}
 
 {% data reusables.enterprise_installation.warning-on-scaling %}
+
+#### Supported instance types
+
+{% data reusables.enterprise_installation.aws-supported-instance-types %}
 
 ### Selecting the {% data variables.product.prodname_ghe_server %} AMI
 
